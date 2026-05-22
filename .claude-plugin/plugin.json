@@ -1,0 +1,13 @@
+{
+  "name": "dify-workflow",
+  "version": "1.0.0",
+  "description": "Modify Dify workflow YAML files (DSL format) — add/remove/update nodes, edges, code, LLM prompts — and import into Dify via API.",
+  "author": {
+    "name": "happysmallxin",
+    "url": "https://github.com/happysmallxin"
+  },
+  "repository": "https://github.com/happysmallxin/dify-workflow-skill",
+  "homepage": "https://github.com/happysmallxin/dify-workflow-skill",
+  "license": "MIT",
+  "keywords": ["dify", "workflow", "yaml", "dsl", "ai-agent"]
+}
